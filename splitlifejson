@@ -1,0 +1,29 @@
+{
+  "appName": "YourAppName",
+  "version": "1.0.0",
+  "developer": {
+    "name": "DeveloperName",
+    "email": "developer@example.com",
+    "website": "https://developerwebsite.com"
+  },
+  "description": "A brief description of what your app does and its key features.",
+  "features": [
+    "Feature 1: Description",
+    "Feature 2: Description",
+    "Feature 3: Description"
+  ],
+  "platforms": ["Android", "iOS"],
+  "releaseDate": "2024-12-05",
+  "categories": ["Productivity", "Utilities"],
+  "keywords": ["app", "productivity", "tool"],
+  "rating": {
+    "average": 4.5,
+    "totalReviews": 1200
+  },
+  "privacyPolicy": "https://yourappwebsite.com/privacy-policy",
+  "termsOfService": "https://yourappwebsite.com/terms-of-service",
+  "support": {
+    "email": "support@example.com",
+    "phone": "+1-800-123-4567"
+  }
+}
