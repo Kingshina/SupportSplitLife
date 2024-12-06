@@ -1,7 +1,10 @@
-{
-  "appName": "YourAppName",
-  "version": "1.0.0",
-  "developer": "DeveloperName",
-  "supportEmail": "support@example.com",
-  "website": "https://yourappwebsite.com"
-}
+[
+  {
+    "name": "Alice",
+    "age": 25
+  },
+  {
+    "name": "Bob",
+    "age": 30
+  }
+]
